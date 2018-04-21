@@ -1,0 +1,8 @@
+(del .git folder)
+git init
+git status
+git add *
+git commit -m "<comment>"
+git remote add origin https://github.com/juosugi/BLEDeviceConfigurator.git
+git push origin master
+(git pull origin master)
